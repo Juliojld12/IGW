@@ -1,4 +1,6 @@
 package es.upm.miw.devops.rest.exceptionshandler;
 
-public class Casa {
+public class Casa
+{
+    public int casa;
 }
